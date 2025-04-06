@@ -5,7 +5,7 @@
 This project performs sentiment analysis on social media posts using a labeled text dataset. The goal is to classify posts as **positive**, **negative**, or **neutral** to understand public opinion on various topics.
 
 
-
+```
 ## 📁 File Structure
 
 
