@@ -5,7 +5,7 @@ This project performs sentiment analysis on social media posts using a dataset o
 
 ---
 
-## 📁 File Structure
+# 📁 File Structure
 
 ```
 social-media-sentiment-analysis/
@@ -15,7 +15,7 @@ social-media-sentiment-analysis/
     └── data.csv                           # Sample dataset with social media posts
 ```
 
----
+
 
 ## 📌 Features
 
