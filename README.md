@@ -55,6 +55,16 @@ The dataset (`Sample Data/data.csv`) includes:
 
 ---
 
+## Input 
+```bash
+setimentdata.csv
+```
+
+#output
+```bash
+Positive 
+```
+
 ## 📈 Model Evaluation
 
 The notebook compares the performance of the following models:
@@ -82,11 +92,3 @@ The notebook compares the performance of the following models:
 
 **Author**: Om Choksi  
 Feel free to reach out for questions or collaboration!
-```
-
-### Downloadable Link
-I’ve uploaded the content to a temporary paste service for easy download:
-- **Link**: [Download readme.txt](https://pastebin.com/raw/7Q8ZxL2k)
-- **Instructions**: Click the link, then save the content as `readme.txt` or `README.md` on your device.
-
-Let me know if you need help saving it or prefer a different format!
